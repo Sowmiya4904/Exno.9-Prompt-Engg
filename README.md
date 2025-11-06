@@ -75,12 +75,3 @@ The experiment successfully demonstrated that structured prompting plays a cruci
 # Result: The Prompt of the above task executed successfully
 
 
-
-
-
-
-
-
-
-# Result:
-
